@@ -8,9 +8,6 @@ I actively participate in competitive programming and hold a **2★ rating on Co
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-r-918b15275)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshrathore68@gmail.com)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/vansh68)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=leetcode&logoColor=FFA116)](https://leetcode.com/vansh_rathore)
-
 ---
 
 # 💻 Tech Stack
